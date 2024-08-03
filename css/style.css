@@ -1,0 +1,138 @@
+body {
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h6 {
+    font-weight: 900;
+    margin: 0px;
+}
+
+p {
+    font-size: 14px;
+}
+
+#ptext {
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: 700;
+    font-size: 14px;
+}
+
+/*header****************************************************************************************************/
+
+h1 {
+    font-weight: 300;
+}
+
+#navbar a {
+    background-color: white;
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#navbar a:hover{
+    color: black;
+}
+
+#navbar a:visited {
+    color: black;
+}
+
+#menuButton{
+    border-style: none;
+    width: 200px;
+}
+
+#menu{
+    width: 16px;
+}
+
+#menuCol{
+    width: auto;
+}
+
+#pMenu{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: 600;
+
+}
+
+/*section1**************************************************************************************************/
+
+
+#section1 {
+    background-color: #F6F6F6;
+}
+
+#photo {
+    background-image: url(../img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#textphoto {
+    background-color: #31C68B;
+    color: white;
+}
+
+#iconTitle {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+
+
+/*section2**************************************************************************************************/
+
+
+#section2 {
+    background-color: #F6F6F6;
+}
+
+#subtitle {
+    color: rgba(0, 0, 0, 0.55);
+    font-weight: 600;
+    margin: 0px;
+}
+
+
+/*section3**************************************************************************************************/
+
+
+#section3 {
+    background-color: #222222;
+    color: white;
+}
+
+#pTextSec3 {
+    color: rgba(255, 255, 255, 0.3);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#tableH{
+    background-color: #222222;
+    color: white;
+    font-weight: 900;
+}
+
+#table{
+    background-color: #222222;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/*footer****************************************************************************************************/
+
+footer {
+    color: rgba(255, 255, 255, 0.4);
+    background-color: #111111;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+}
