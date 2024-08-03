@@ -1,0 +1,17 @@
+
+background header
+#FFFFFF 
+
+green, textbox
+#31C68B
+
+background section2
+#F6F6F6
+
+background section3
+#222222
+
+background footer
+#111111
+
+
